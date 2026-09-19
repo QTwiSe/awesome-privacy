@@ -273,7 +273,7 @@ that makes a good alternative to BitLocker.
 ### Encrypted Messaging
 
 
-- **[GooseDuck](https://github.com)** - An open-source messaging application utilizing the custom KeyLock protocol (ECDH + XChaCha20-Poly1305) designed to bypass DPI and protect against MITM attacks.
+- **[GooseDuck](https://github.com/QTwise/GooseDuck)** - An open-source messaging application utilizing the custom KeyLock protocol (ECDH + XChaCha20-Poly1305) designed to bypass DPI and protect against MITM attacks.
   
 
 - **[<img src='https://signal.org/assets/images/favicon/android-chrome-192x192.png' width='14' alt='' /> Signal](https://signal.org)** - Probably one of the most popular, secure private messaging apps that combines strong encryption (see [Signal Protocol](https://en.wikipedia.org/wiki/Signal_Protocol)) with a simple UI and plenty of features. It's widely used across the world, and ea[…](https://awesome-privacy.xyz/communication/encrypted-messaging/signal "View full Signal report") 
